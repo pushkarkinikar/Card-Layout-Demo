@@ -1,0 +1,27 @@
+.pageContainer{
+    background-color: rgb(138, 109, 59);
+    width: 100%;
+    height: 100vh;
+}
+.continer{
+     margin: 0 auto;
+     width: 97%;
+}
+
+.cardLayout:hover .container{
+     opacity:1;
+}
+.pageHeading{
+    text-align: center;
+    padding-top: 20px;
+    margin-bottom: 50px;
+}
+.title{
+    color: rebeccapurple;
+   
+    font-size: 50px;
+    font-weight: 900;
+}
+
+
+
